@@ -1,0 +1,8 @@
+packages to be installed before the code:
+1. pip install pandas
+2.pip install numpy
+3.pip install scikit-learn
+
+Try having both the dataset and the code in the same folder
+
+THANK YOU
